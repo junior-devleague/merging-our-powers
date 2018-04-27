@@ -1,7 +1,7 @@
 ---
 author:
 - Somewha7
-title: 'title here'
+title: 'Merging Our Powers'
 type: Activity
 ---
 
