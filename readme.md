@@ -13,7 +13,7 @@ Activity to teach the construction of a mergesort. Part of the Sorting Algorithm
 Objective
 =========
 
-The time has come. Dr. Monsoon has arrived, and he's ready to rumble. Heroes Inc. has sent out their best and brightest, but it's just not enough... Slowly but surely you're losing ground, and it seems like nothing can stop Dr. Monsoon's unrelenting advance. Everyone's tried their best, but it seems like this is the end... But wait! You've reached an epiphany -- As in a vision, you've dreamed up a new sort -- one more powerful than any you've seen before, save possibly the quicksort, and maybe -- just maybe -- it'll be enough to save the day. Can you flesh out this vision, and create it before it's too late? The clock is ticking...
+The time has come. Dr. Monsoon has arrived, and he's ready to rumble. Heroes Inc. has sent out their best and brightest, but it's just not enough... Slowly but surely you're losing ground, and it seems like nothing can stop Dr. Monsoon's unrelenting advance. Everyone's tried their best, but it seems like this is the end... But wait! You've reached an epiphany! As in a vision, you've dreamed up a new sort -- one more powerful than any you've seen before, save possibly the quicksort, and maybe -- just maybe -- it'll be enough to save the day. Can you flesh out this vision, and bring it into reality before it's too late? The clock is ticking...
 
 Prerequisites
 =============
